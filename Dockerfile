@@ -1,4 +1,4 @@
-FROM nginx
+FROM test11aa/test_nginx_new
 
 MAINTAINER Ruslan Shevchenko "galucinogen@gmail.com"
 
